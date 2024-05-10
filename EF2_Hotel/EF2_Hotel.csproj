@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.1.35" />
+    <PackageReference Include="MetroFramework" Version="1.2.0.3" />
+    <PackageReference Include="MetroFramework.Design" Version="1.2.0.3" />
+    <PackageReference Include="MetroFramework.Fonts" Version="1.2.0.3" />
+    <PackageReference Include="MetroFramework.RunTime" Version="1.2.0.3" />
+    <PackageReference Include="MetroModernUI" Version="1.4.0" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Twilio" Version="6.18.0" />
+    <PackageReference Include="Winform.Metroframework" Version="1.4.0" />
+    <PackageReference Include="Winform.Metroframework.Design" Version="1.4.0" />
+    <PackageReference Include="Winform.Metroframework.Fonts" Version="1.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="MetroFramework">
+      <HintPath>..\packages\WinForms-ModernUI.1.3.0.1\lib\net20\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\packages\WinForms-ModernUI.1.3.0.1\lib\net20\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\packages\WinForms-ModernUI.1.3.0.1\lib\net20\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
