@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{77C01CB8-26DD-4958-8801-E4EC5A3C93DA}|EF2_Hotel\\EF2_Hotel.csproj|solutionrelative:ef2_hotel\\frontend.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77C01CB8-26DD-4958-8801-E4EC5A3C93DA}|EF2_Hotel\\EF2_Hotel.csproj|d:\\iti\\core\u0026backend\\c#\\day#19_ef(4)\\ef2_hotel\\ef2_hotel\\kitchen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77C01CB8-26DD-4958-8801-E4EC5A3C93DA}|EF2_Hotel\\EF2_Hotel.csproj|D:\\ITI\\Core\u0026BackEnd\\C#\\Day#19_EF(4)\\EF2_Hotel\\ef2_hotel\\kitchen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77C01CB8-26DD-4958-8801-E4EC5A3C93DA}|EF2_Hotel\\EF2_Hotel.csproj|solutionrelative:ef2_hotel\\kitchen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -51,8 +55,7 @@
               "RelativeToolTip": "EF2_Hotel\\Kitchen.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAWwBAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T23:55:28.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T23:55:28.874Z"
             }
           ]
         }
